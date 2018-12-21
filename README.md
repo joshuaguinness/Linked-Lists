@@ -1,4 +1,4 @@
-#LinkedLists
+# Linked-Lists
 
 A program that randomly creates a linked list which then has linked lists attached to each node of the original linked list. The program then flattens the entire strucutre into one, sorted, linked list.
 
