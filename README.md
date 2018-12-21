@@ -16,5 +16,7 @@ After function "flatten" is applied to the original linked list, the new linked 
 
 The program can also handle much bigger sizes
 
+## What I learned!
+
 In this project, I learned all about structures in C, improved my understanding of pointers, and grew in my knowledge of linked lists and the algorithms that surround it (e.g. inserting, reversing, merging).
 
